@@ -8,4 +8,46 @@
 {
     background-color: brown;
     text-align: center;
+    border-radius: 0px 0px 15px 15px ;
+}
+.main
+{
+    text-align: center;
+}
+h1
+{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: cursive;
+    padding: 10px 0px;
+}
+h3{
+    font-weight: 900;
+    font-family: cursive;
+}
+textarea
+{
+    width: 80%;
+    height: 18vh;
+    border-radius: 25px ;
+    padding: 10px;
+    margin: 10px 0px;
+    box-shadow: 0px 0px 10px 10px  rgba(20, 20, 20, 0.733);
+}
+.btn
+{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(14, 13, 13);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+    border-radius: 20px;
+}
+.footer
+{
+    text-align: center;
+    background-color: brown;
+    padding: 10px 0px ;
+    border-radius: 15px 15px 0px 0px ;
 }
